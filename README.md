@@ -4,7 +4,7 @@
 ####### Valencia, Spain 
 ---
 📧 [jorge7sh@gmail.com](mailto:jorge7sh@gmail.com)  
-💼 [LinkedIn: jsanchezhernandezz](https://linkedin.com)
+💼 [LinkedIn: jsanchezhernandezz](https://linkedin.com)\n
 📞 (+34) 678263313
 
 ---

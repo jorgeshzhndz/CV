@@ -46,14 +46,14 @@ Biotechnologist with a master’s degree in Research and Rational Use of Medicin
 * Evaluation of benefit-risk balance of pharmacological treatments.
 * Real World Data management and optimization of SQL databases.
 * Fundamentals of pharmacovigilance and drug safety monitoring.
-* **Master’s thesis:** Analysis of opioid consumption trends in Navarre.
+* [**Master’s thesis:** Analysis of opioid consumption trends in Navarre](https://www.linkedin.com/in/jsanchezhernandezz/overlay/Project/619929090/treasury/?profileId=ACoAAE71NUcBciANPPCi26vS8RTZaVVXKptJXZ8)
 
 ### Bachelor’s Degree in Biotechnology
 **University of Zaragoza**  
 *Sept. 2019 – Jun. 2024 | Zaragoza, Spain*
 * Molecular Biology techniques: qPCR, PCR, electrophoresis, etc.
 * Cell culture, tissue engineering, and clinical biotechnology.
-* **Bachelor’s thesis:** Role of postbiotics in cancer: a review.
+* [**Bachelor’s thesis:** Role of postbiotics in cancer: a review.](https://zaguan.unizar.es/record/152754?ln=es)
 
 ### International & Exchange Programmes
 * **Erasmus+ Programme:** Università degli Studi di Bari *(Sept. 2022 - Jul. 2023 | Bari, Italy)*
@@ -63,8 +63,8 @@ Biotechnologist with a master’s degree in Research and Rational Use of Medicin
 
 ## Certificates
 * ICH Good Clinical Practice E6(R3) & Science Communication
-* Pharmacogenetics
-* Python Programming
+* Universitary Microcredential in Pharmacogenetics (University of Valencia)
+* Python Programming Basics (Santander Open Academy)
 
 ---
 

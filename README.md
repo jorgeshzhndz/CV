@@ -1,6 +1,6 @@
 # **Jorge Sánchez Hernández**
 ### Biotechnology Graduate | Data Scientist | Healthcare & Real-World Evidence Researcher
-📍 Valencia, Spain  
+𖡡   Valencia, Spain  
 📧 [jorge7sh@gmail.com](mailto:jorge7sh@gmail.com)  
 💼 [LinkedIn: jsanchezhernandezz](https://linkedin.com)
 
